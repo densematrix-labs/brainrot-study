@@ -1,0 +1,135 @@
+{
+  "nav": {
+    "pricing": "Premium holen"
+  },
+  "home": {
+    "badge": "Smarter lernen, nicht härter",
+    "title": {
+      "part1": "Verwandle langweilige PDFs",
+      "part2": "in TikTok-Vibes"
+    },
+    "subtitle": "Verwandle dein Lernmaterial in süchtig machenden Brainrot-Style. Lerne wie beim TikTok-Scrollen. Echt krass! 🔥",
+    "cta": "PDF hochladen",
+    "freeTrial": "✨ 2 kostenlose Umwandlungen zum Ausprobieren!",
+    "features": {
+      "brainrot": {
+        "title": "Brainrot-Modus 🧠",
+        "desc": "Deine langweiligen Notizen werden Gen-Z Gold. Memes, Slang und unvergessliche Fakten."
+      },
+      "quiz": {
+        "title": "Quiz-Spiele 🎮",
+        "desc": "Teste dich mit süchtig machenden Mini-Spielen. Lernen + Gaming = Krass."
+      },
+      "tts": {
+        "title": "Sprach-Modus 🎧",
+        "desc": "Höre deine Notizen mit einer coolen Stimme. Lerne unterwegs!"
+      }
+    },
+    "howItWorks": {
+      "title": "So funktioniert's",
+      "step1": "PDF hochladen",
+      "step2": "KI macht's cool",
+      "step3": "Lernen & Quizzen"
+    }
+  },
+  "upload": {
+    "dragDrop": "PDF hier ablegen",
+    "drop": "Lass es fallen! 🔥",
+    "hint": "oder klicken zum Durchsuchen",
+    "maxSize": "Max. 10MB",
+    "processing": "Datei wird verarbeitet...",
+    "disclaimer": "⚠️ Mit dem Hochladen bestätigst du, dass du das Recht hast, dieses Material zu verwenden."
+  },
+  "study": {
+    "progress": "Abschnitt {{current}} von {{total}}",
+    "tokensLeft": "{{count}} Umwandlungen übrig",
+    "converting": "Machen wir's cool...",
+    "convertingDesc": "Unsere KI verwandelt deinen langweiligen Content in Brainrot-Gold 🧠✨",
+    "error": "Ups! Etwas ist schiefgelaufen",
+    "noTokens": "Du hast alle Umwandlungen aufgebraucht. Hol dir mehr zum Weiterlernen!",
+    "getPremium": "Mehr Umwandlungen holen",
+    "retry": "Erneut versuchen"
+  },
+  "card": {
+    "learn": "Lernen",
+    "quiz": "Quiz",
+    "correct": "Richtig! Nice!",
+    "incorrect": "Knapp daneben, nächstes Mal!",
+    "next": "Weiter"
+  },
+  "pricing": {
+    "title": "Upgrade dein Lernen",
+    "subtitle": "Wähle dein Paket und lerne richtig los",
+    "popular": "Am beliebtesten",
+    "conversions": "Umwandlungen",
+    "buy": "Jetzt starten",
+    "secure": "Sichere Zahlung",
+    "refund": "Zufriedenheitsgarantie",
+    "features": {
+      "brainrot": "Brainrot-Style Inhaltserstellung",
+      "quiz": "Interaktive Quizze & Spiele",
+      "tts": "Text-zu-Sprache Modus",
+      "languages": "7 Sprachen unterstützt",
+      "export": "Inhalte herunterladen"
+    }
+  },
+  "success": {
+    "title": "Zahlung erfolgreich",
+    "message": "Deine Tokens wurden deinem Konto gutgeschrieben. Zeit zum Lernen!",
+    "conversions": "Umwandlungen verfügbar",
+    "startStudying": "Los geht's",
+    "receipt": "Eine Quittung wurde an deine E-Mail gesendet"
+  },
+  "privacy": {
+    "title": "Datenschutzrichtlinie",
+    "lastUpdated": "Zuletzt aktualisiert",
+    "sections": {
+      "collection": {
+        "title": "Welche Informationen wir sammeln",
+        "content": "Wir sammeln nur die für unseren Service notwendigen Informationen: Geräte-IDs zur Token-Verfolgung, hochgeladene PDF-Inhalte zur Verarbeitung und Zahlungsinformationen über unseren sicheren Zahlungsanbieter."
+      },
+      "usage": {
+        "title": "Wie wir Ihre Informationen nutzen",
+        "content": "Hochgeladene PDFs werden zur Generierung von Lerninhalten verarbeitet und nicht dauerhaft gespeichert. Geräte-IDs werden zur Verfolgung von Tokens und Zahlungshistorie verwendet."
+      },
+      "storage": {
+        "title": "Datenspeicherung & Sicherheit",
+        "content": "Hochgeladene Dateien werden in Echtzeit verarbeitet und nach der Umwandlung gelöscht. Wir speichern Ihre Lernmaterialien nicht. Zahlungsdaten werden sicher von unserem Zahlungsanbieter verarbeitet."
+      },
+      "rights": {
+        "title": "Ihre Rechte",
+        "content": "Sie können jederzeit die Löschung Ihrer Daten anfordern. Kontaktieren Sie uns, um Ihre Rechte gemäß DSGVO, CCPA oder anderen geltenden Datenschutzgesetzen auszuüben."
+      },
+      "contact": {
+        "title": "Kontakt",
+        "content": "Für Datenschutzanfragen"
+      }
+    }
+  },
+  "terms": {
+    "title": "Nutzungsbedingungen",
+    "lastUpdated": "Zuletzt aktualisiert",
+    "sections": {
+      "acceptance": {
+        "title": "Annahme der Bedingungen",
+        "content": "Durch die Nutzung von Brainrot Study stimmen Sie diesen Bedingungen zu. Wenn Sie nicht zustimmen, nutzen Sie den Service bitte nicht."
+      },
+      "service": {
+        "title": "Servicebeschreibung",
+        "content": "Brainrot Study verwandelt Bildungsinhalte mithilfe von KI in ansprechende Lernmaterialien im Gen-Z-Stil. Ergebnisse können je nach Eingabequalität variieren."
+      },
+      "content": {
+        "title": "Benutzerinhalte",
+        "content": "Sie sind dafür verantwortlich, sicherzustellen, dass Sie das Recht haben, Inhalte hochzuladen und zu verarbeiten. Wir haften nicht für Urheberrechtsverletzungen durch Benutzer-Uploads."
+      },
+      "disclaimer": {
+        "title": "Haftungsausschluss",
+        "content": "KI-generierte Inhalte dienen nur der Bildungsunterhaltung und sind möglicherweise nicht 100% genau. Überprüfen Sie wichtige Informationen immer mit autoritativen Quellen."
+      },
+      "liability": {
+        "title": "Haftungsbeschränkung",
+        "content": "Wir stellen den Service ohne Garantien bereit. Wir haften nicht für Schäden, die aus der Nutzung des Services entstehen."
+      }
+    }
+  }
+}

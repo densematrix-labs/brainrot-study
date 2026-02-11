@@ -1,0 +1,135 @@
+{
+  "nav": {
+    "pricing": "Premium"
+  },
+  "home": {
+    "badge": "Estudia más inteligente, no más duro",
+    "title": {
+      "part1": "Convierte PDFs aburridos",
+      "part2": "en vibes de TikTok"
+    },
+    "subtitle": "Transforma tus materiales de estudio en contenido adictivo estilo brainrot. Aprende como si scrollearas TikTok. ¡Esto está brutal! 🔥",
+    "cta": "Sube tu PDF",
+    "freeTrial": "✨ ¡2 conversiones gratis para probar!",
+    "features": {
+      "brainrot": {
+        "title": "Modo Brainrot 🧠",
+        "desc": "Tus notas aburridas se convierten en oro Gen-Z. Memes, jerga y datos inolvidables."
+      },
+      "quiz": {
+        "title": "Juegos Quiz 🎮",
+        "desc": "Ponte a prueba con mini-juegos adictivos. Aprender + jugar = brutal."
+      },
+      "tts": {
+        "title": "Modo Voz 🎧",
+        "desc": "Escucha tus notas con una voz engaging. ¡Estudia donde sea!"
+      }
+    },
+    "howItWorks": {
+      "title": "Cómo funciona",
+      "step1": "Sube tu PDF",
+      "step2": "La IA lo hace divertido",
+      "step3": "Aprende y haz quizzes"
+    }
+  },
+  "upload": {
+    "dragDrop": "Suelta tu PDF aquí",
+    "drop": "¡Suéltalo! 🔥",
+    "hint": "o haz clic para buscar archivos",
+    "maxSize": "Máx 10MB",
+    "processing": "Procesando tu archivo...",
+    "disclaimer": "⚠️ Al subir, confirmas que tienes derecho a usar este material."
+  },
+  "study": {
+    "progress": "Sección {{current}} de {{total}}",
+    "tokensLeft": "{{count}} conversiones restantes",
+    "converting": "Haciéndolo épico...",
+    "convertingDesc": "Nuestra IA está convirtiendo tu contenido aburrido en oro brainrot 🧠✨",
+    "error": "¡Ups! Algo salió mal",
+    "noTokens": "Has usado todas tus conversiones. ¡Consigue más para seguir estudiando!",
+    "getPremium": "Conseguir más conversiones",
+    "retry": "Reintentar"
+  },
+  "card": {
+    "learn": "Aprender",
+    "quiz": "Quiz",
+    "correct": "¡Correcto! ¡Crack!",
+    "incorrect": "¡Casi! ¡A la próxima!",
+    "next": "Siguiente"
+  },
+  "pricing": {
+    "title": "Sube de nivel tu estudio",
+    "subtitle": "Elige tu pack y empieza a estudiar de verdad",
+    "popular": "Más popular",
+    "conversions": "conversiones",
+    "buy": "Empezar",
+    "secure": "Pago seguro",
+    "refund": "Satisfacción garantizada",
+    "features": {
+      "brainrot": "Generación de contenido estilo brainrot",
+      "quiz": "Quizzes y juegos interactivos",
+      "tts": "Modo texto a voz",
+      "languages": "7 idiomas soportados",
+      "export": "Descarga tu contenido"
+    }
+  },
+  "success": {
+    "title": "Pago exitoso",
+    "message": "Tus tokens han sido añadidos a tu cuenta. ¡A estudiar!",
+    "conversions": "conversiones disponibles",
+    "startStudying": "Empezar a estudiar",
+    "receipt": "Se ha enviado un recibo a tu email"
+  },
+  "privacy": {
+    "title": "Política de Privacidad",
+    "lastUpdated": "Última actualización",
+    "sections": {
+      "collection": {
+        "title": "Información que recopilamos",
+        "content": "Solo recopilamos la información necesaria: identificadores de dispositivo para seguimiento de tokens, contenido PDF subido para procesamiento, e información de pago a través de nuestro proveedor seguro."
+      },
+      "usage": {
+        "title": "Cómo usamos tu información",
+        "content": "Los PDF subidos se procesan para generar contenido de aprendizaje y no se almacenan permanentemente. Los identificadores de dispositivo se usan para seguimiento de tokens e historial de pagos."
+      },
+      "storage": {
+        "title": "Almacenamiento y seguridad de datos",
+        "content": "Los archivos subidos se procesan en tiempo real y se eliminan después de la conversión. No almacenamos tus materiales de estudio. Los datos de pago son procesados de forma segura por nuestro proveedor."
+      },
+      "rights": {
+        "title": "Tus derechos",
+        "content": "Puedes solicitar la eliminación de tus datos en cualquier momento. Contáctanos para ejercer tus derechos bajo GDPR, CCPA u otras leyes de privacidad aplicables."
+      },
+      "contact": {
+        "title": "Contáctanos",
+        "content": "Para consultas de privacidad"
+      }
+    }
+  },
+  "terms": {
+    "title": "Términos de Servicio",
+    "lastUpdated": "Última actualización",
+    "sections": {
+      "acceptance": {
+        "title": "Aceptación de términos",
+        "content": "Al usar Brainrot Study, aceptas estos términos. Si no estás de acuerdo, por favor no uses el servicio."
+      },
+      "service": {
+        "title": "Descripción del servicio",
+        "content": "Brainrot Study transforma contenido educativo en materiales de aprendizaje atractivos estilo Gen-Z usando IA. Los resultados pueden variar según la calidad del input."
+      },
+      "content": {
+        "title": "Contenido del usuario",
+        "content": "Eres responsable de asegurar que tienes derecho a subir y procesar cualquier contenido. No somos responsables de infracciones de copyright por uploads de usuarios."
+      },
+      "disclaimer": {
+        "title": "Aviso legal",
+        "content": "El contenido generado por IA es solo para entretenimiento educativo y puede no ser 100% preciso. Siempre verifica información importante con fuentes autorizadas."
+      },
+      "liability": {
+        "title": "Limitación de responsabilidad",
+        "content": "Proporcionamos el servicio 'tal cual' sin garantías. No somos responsables de ningún daño derivado del uso del servicio."
+      }
+    }
+  }
+}

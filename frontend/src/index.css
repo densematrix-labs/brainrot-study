@@ -1,0 +1,142 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --brain-dark: #0a0a0f;
+  --brain-darker: #050508;
+  --brain-purple: #b829e3;
+  --brain-pink: #ff2d95;
+  --brain-cyan: #00f5ff;
+  --brain-lime: #c4ff00;
+  --brain-orange: #ff6b2b;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Plus Jakarta Sans', 'Noto Sans SC', 'Noto Sans JP', 'Noto Sans KR', sans-serif;
+  background: var(--brain-darker);
+  color: white;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* Gradient text */
+.gradient-text {
+  background: linear-gradient(135deg, var(--brain-purple) 0%, var(--brain-pink) 50%, var(--brain-cyan) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Neon glow effects */
+.neon-box {
+  box-shadow: 
+    0 0 10px var(--brain-purple),
+    0 0 20px var(--brain-pink),
+    0 0 30px var(--brain-purple),
+    inset 0 0 20px rgba(184, 41, 227, 0.1);
+}
+
+.neon-border {
+  border: 2px solid transparent;
+  background: linear-gradient(var(--brain-dark), var(--brain-dark)) padding-box,
+              linear-gradient(135deg, var(--brain-purple), var(--brain-pink), var(--brain-cyan)) border-box;
+}
+
+/* Animated background */
+.bg-grid {
+  background-image: 
+    linear-gradient(rgba(184, 41, 227, 0.05) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(184, 41, 227, 0.05) 1px, transparent 1px);
+  background-size: 50px 50px;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--brain-darker);
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(var(--brain-purple), var(--brain-pink));
+  border-radius: 4px;
+}
+
+/* Button hover effects */
+.btn-primary {
+  @apply px-6 py-3 rounded-xl font-bold text-white transition-all duration-300;
+  background: linear-gradient(135deg, var(--brain-purple), var(--brain-pink));
+  box-shadow: 0 4px 20px rgba(184, 41, 227, 0.4);
+}
+
+.btn-primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 30px rgba(255, 45, 149, 0.6);
+}
+
+.btn-primary:active {
+  transform: translateY(0);
+}
+
+/* Card styles */
+.card-glass {
+  background: rgba(10, 10, 15, 0.8);
+  backdrop-filter: blur(20px);
+  border: 1px solid rgba(184, 41, 227, 0.2);
+  border-radius: 1rem;
+}
+
+/* Quiz option styles */
+.quiz-option {
+  @apply p-4 rounded-xl cursor-pointer transition-all duration-300;
+  background: rgba(184, 41, 227, 0.1);
+  border: 2px solid rgba(184, 41, 227, 0.3);
+}
+
+.quiz-option:hover {
+  background: rgba(184, 41, 227, 0.2);
+  border-color: var(--brain-pink);
+  transform: translateX(4px);
+}
+
+.quiz-option.correct {
+  background: rgba(0, 255, 100, 0.2);
+  border-color: #00ff64;
+}
+
+.quiz-option.wrong {
+  background: rgba(255, 50, 50, 0.2);
+  border-color: #ff3232;
+}
+
+/* Swipe card styles */
+.swipe-card {
+  @apply absolute w-full;
+  will-change: transform;
+}
+
+/* Loading animation */
+@keyframes brainrot {
+  0% { transform: rotate(0deg) scale(1); }
+  25% { transform: rotate(5deg) scale(1.1); }
+  50% { transform: rotate(0deg) scale(1); }
+  75% { transform: rotate(-5deg) scale(1.1); }
+  100% { transform: rotate(0deg) scale(1); }
+}
+
+.animate-brainrot {
+  animation: brainrot 0.5s ease-in-out infinite;
+}

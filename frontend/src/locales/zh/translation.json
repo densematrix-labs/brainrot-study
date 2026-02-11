@@ -1,0 +1,135 @@
+{
+  "nav": {
+    "pricing": "获取高级版"
+  },
+  "home": {
+    "badge": "学习更聪明，而不是更累",
+    "title": {
+      "part1": "把无聊的PDF",
+      "part2": "变成抖音风格"
+    },
+    "subtitle": "把你的学习资料变成超上瘾的"脑腐"风格内容。像刷抖音一样学习。这波学习属实有点顶 🔥",
+    "cta": "上传你的PDF",
+    "freeTrial": "✨ 2次免费转换让你先体验！",
+    "features": {
+      "brainrot": {
+        "title": "脑腐模式 🧠",
+        "desc": "你无聊的笔记变成Z世代金句。梗图、网络用语、过目不忘的知识点。"
+      },
+      "quiz": {
+        "title": "答题游戏 🎮",
+        "desc": "用超上瘾的小游戏测试自己。学习+游戏=绝绝子"
+      },
+      "tts": {
+        "title": "语音模式 🎧",
+        "desc": "用有趣的声音播放你的笔记。走到哪学到哪！"
+      }
+    },
+    "howItWorks": {
+      "title": "使用方法",
+      "step1": "上传你的PDF",
+      "step2": "AI让它变有趣",
+      "step3": "学习并做题"
+    }
+  },
+  "upload": {
+    "dragDrop": "把PDF拖到这里",
+    "drop": "松手就好！🔥",
+    "hint": "或点击浏览文件",
+    "maxSize": "最大10MB",
+    "processing": "正在处理你的文件...",
+    "disclaimer": "⚠️ 上传即表示你确认有权使用此资料。"
+  },
+  "study": {
+    "progress": "第 {{current}} 部分，共 {{total}} 部分",
+    "tokensLeft": "剩余 {{count}} 次转换",
+    "converting": "正在让它变得有趣...",
+    "convertingDesc": "我们的AI正在把你无聊的内容变成脑腐金句 🧠✨",
+    "error": "哎呀！出了点问题",
+    "noTokens": "你已经用完所有转换次数了。获取更多继续学习吧！",
+    "getPremium": "获取更多次数",
+    "retry": "重试"
+  },
+  "card": {
+    "learn": "学习",
+    "quiz": "测验",
+    "correct": "答对了！太牛了！",
+    "incorrect": "差一点点，下次一定！",
+    "next": "下一个"
+  },
+  "pricing": {
+    "title": "升级你的学习体验",
+    "subtitle": "选择你的套餐，开始真正高效学习",
+    "popular": "最受欢迎",
+    "conversions": "次转换",
+    "buy": "立即购买",
+    "secure": "安全支付",
+    "refund": "满意保证",
+    "features": {
+      "brainrot": "脑腐风格内容生成",
+      "quiz": "互动测验和游戏",
+      "tts": "语音朗读模式",
+      "languages": "支持7种语言",
+      "export": "下载你的内容"
+    }
+  },
+  "success": {
+    "title": "支付成功",
+    "message": "转换次数已添加到你的账户。开始学习吧！",
+    "conversions": "次可用转换",
+    "startStudying": "开始学习",
+    "receipt": "收据已发送到你的邮箱"
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新",
+    "sections": {
+      "collection": {
+        "title": "我们收集的信息",
+        "content": "我们只收集提供服务所必需的信息：用于追踪次数的设备标识符、用于处理的上传PDF内容，以及通过安全支付提供商处理的支付信息。"
+      },
+      "usage": {
+        "title": "信息使用方式",
+        "content": "上传的PDF用于生成学习内容，不会永久存储。我们使用设备标识符来追踪你的转换次数和支付历史。"
+      },
+      "storage": {
+        "title": "数据存储与安全",
+        "content": "上传的文件实时处理后即删除。我们不存储你的学习资料。支付数据由支付提供商安全处理。"
+      },
+      "rights": {
+        "title": "你的权利",
+        "content": "你可以随时要求删除你的数据。联系我们行使你在GDPR、CCPA或其他适用隐私法律下的权利。"
+      },
+      "contact": {
+        "title": "联系我们",
+        "content": "隐私相关咨询"
+      }
+    }
+  },
+  "terms": {
+    "title": "服务条款",
+    "lastUpdated": "最后更新",
+    "sections": {
+      "acceptance": {
+        "title": "接受条款",
+        "content": "使用Brainrot Study即表示你同意这些条款。如不同意，请勿使用本服务。"
+      },
+      "service": {
+        "title": "服务描述",
+        "content": "Brainrot Study使用AI将教育内容转换成有趣的Z世代风格学习材料。结果可能因输入质量而异。"
+      },
+      "content": {
+        "title": "用户内容",
+        "content": "你有责任确保你有权上传和处理任何内容。我们不对用户上传导致的版权侵权负责。"
+      },
+      "disclaimer": {
+        "title": "免责声明",
+        "content": "AI生成的内容仅供教育娱乐，可能不100%准确。请始终与权威来源核实重要信息。"
+      },
+      "liability": {
+        "title": "责任限制",
+        "content": "我们"按原样"提供服务，不作任何保证。我们不对使用服务产生的任何损害负责。"
+      }
+    }
+  }
+}
